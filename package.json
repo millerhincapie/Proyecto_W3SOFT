@@ -1,0 +1,25 @@
+{
+  "name": "proyecto_mvc",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "W3SOFT",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josedan32/W3SOFT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Josedan32/W3SOFT/issues"
+  },
+  "homepage": "https://github.com/Josedan32/W3SOFT#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "pg": "^8.10.0"
+  }
+}
